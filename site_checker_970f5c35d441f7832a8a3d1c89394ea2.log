@@ -1,0 +1,19 @@
+2018-Oct-15 09:29:48 Наличие необходимых модулей php (check_php_modules): Ok
+Все необходимые модули установлены
+2018-Oct-15 09:29:48 Обязательные параметры PHP (check_php_settings): Ok
+Настройки правильные
+2018-Oct-15 09:29:48 Модули веб-сервера (check_security): Ok
+Конфликтов не выявлено
+2018-Oct-15 09:29:48 Значения переменных сервера (check_server_vars): Ok
+Корректные
+2018-Oct-15 09:29:48 Сохранение сессии (check_session): Ok
+50% done
+2018-Oct-15 09:29:48 Параметры настройки UTF (mbstring и константа BX_UTF) (check_mbstring): Ok
+Правильные. Сайт работает в UTF кодировке
+2018-Oct-15 09:29:48 Служебные скрипты в корне сайта (check_install_scripts): Ok
+Отсутствуют
+2018-Oct-15 09:29:48 Работа с сокетами (check_socket): Fail
+Connection to lnkrayon.make.st:228	Fail
+Socket error [111]: Connection refused
+
+Ошибка! Не работает
