@@ -1,0 +1,1 @@
+<?php $filesInfo = array("/public/webpack/app.css" => "1643260473113479",); ?>
